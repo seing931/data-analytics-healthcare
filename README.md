@@ -1,6 +1,4 @@
 Step-by-Step Lab Instructions:
-_______________________________________________________
-
 Step 1 — Upload the Case Study Dataset
 _______________________________________________________
 from google.colab import files
